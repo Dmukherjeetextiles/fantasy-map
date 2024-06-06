@@ -2,3 +2,6 @@ streamlit
 matplotlib
 numpy
 noise
+networkx
+tqdm
+scikit-learn
